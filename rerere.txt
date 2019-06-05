@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello world\n");
+  
+  /*
+   * This is a sample program that has two changed hunks
+   * with changes on each side branch, which are not
+   * automerged, but instaead manually resolved and recorded
+   * in the rerere database.
+   */
+  
+  printf("Git redo/rerere baseline\n");
+  
+  return 0;
+}
