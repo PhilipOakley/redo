@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("Hello master branch random\n");
+  printf("Hello world\n");
   
   /*
    * This is a sample program that has two changed hunks
@@ -11,7 +11,7 @@ int main()
    * in the rerere database.
    */
   
-  printf("Git redo/rerere random change on master\n");
+  printf("Git redo/rerere baseline\n");
   
   return 0;
 }
